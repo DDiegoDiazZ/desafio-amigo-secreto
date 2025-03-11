@@ -1,4 +1,4 @@
-## Este es un proyecto de practica, fue un desafio hecho para consolidar mi aprenzaje
+### Este es un proyecto de practica, fue un desafio hecho para consolidar mi aprenzaje
  - En el archivo app.js está toda la lógica que usa el projecto. 
  - Se declaró las variables y funciones que se usaran
  - Luego se hicieron los eventos para los botones, la funcionalidad.
